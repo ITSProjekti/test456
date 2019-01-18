@@ -19,6 +19,7 @@ namespace test.Models
         public IList<UserLoginInfo> CurrentLogins { get; set; }
         public IList<AuthenticationDescription> OtherLogins { get; set; }
         //Neki komentar
+        //Jos nesto
     }
 
     public class FactorViewModel
